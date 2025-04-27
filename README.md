@@ -3,7 +3,7 @@
 ### 🔭 Projects that I'm working on:
 - [Kai](https://www.github.com/konveyor/kai) is an AI-assisted migration tool built on top of [Konveyor](https://www.github.com/konveyor/) (Python, TypeScript, Go)
 - [analyzer-lsp](https://github.com/konveyor/analyzer-lsp) is a language-server-based static analysis engine (Go)
-- [gpunix](https://github.com/JonahSussman/gpunix) is an in-progress fully-fledged Unix operating system that runs on the GPU (CUDA, C++)
+- [gpunix](https://github.com/JonahSussman/gpunix) is a fully-fledged Linux operating system that runs on the GPU (CUDA, C++)
 
 ### 💼 Other projects I've worked on:
 - [sequoia-diff](https://github.com/jonahsussman/sequoia-diff) is an AST diffing engine that computes tree edits and code similarity, enabling intelligent fix suggestion retrieval across large codebases (Python)
